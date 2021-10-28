@@ -7,3 +7,6 @@ p {
 .focus {
     color: brown;
 }
+ol {
+font-style: italic;
+}
